@@ -1,0 +1,93 @@
+[
+  {
+    "BornEffect": "NULL", 
+    "BornVolumeName": "SFX_Sound_Bullet", 
+    "Damage": -1.0, 
+    "DamagePlane": 0, 
+    "Desc": "子弹", 
+    "DieEffect": "Effect_WBullet_Dead", 
+    "DieVolumeName": "", 
+    "Id": 2001, 
+    "IsEnermy": 0, 
+    "Name": "WBullet", 
+    "Type": 1
+  }, 
+  {
+    "BornEffect": "NULL", 
+    "BornVolumeName": "SFX_Sound_Missile", 
+    "Damage": -5.0, 
+    "DamagePlane": 0, 
+    "Desc": "导弹", 
+    "DieEffect": "Effect_WMissle_baoz", 
+    "DieVolumeName": "SFX_Sound_Missile_Boom", 
+    "Id": 2002, 
+    "IsEnermy": 0, 
+    "Name": "WMissle", 
+    "Type": 2
+  }, 
+  {
+    "BornEffect": "NULL", 
+    "BornVolumeName": "NULL", 
+    "Damage": -2.0, 
+    "DamagePlane": -2, 
+    "Desc": "地雷", 
+    "DieEffect": "Effect_Stars", 
+    "DieVolumeName": "SFX_Sound_Trigger_Damage", 
+    "Id": 2003, 
+    "IsEnermy": 1, 
+    "Name": "WMine", 
+    "Type": 3
+  }, 
+  {
+    "BornEffect": "NULL", 
+    "BornVolumeName": "NULL", 
+    "Damage": -2.0, 
+    "DamagePlane": -3, 
+    "Desc": "石块", 
+    "DieEffect": "Effect_Stars", 
+    "DieVolumeName": "SFX_Sound_Stone_Destroy", 
+    "Id": 2004, 
+    "IsEnermy": 0, 
+    "Name": "WStone", 
+    "Type": 4
+  }, 
+  {
+    "BornEffect": "NULL", 
+    "BornVolumeName": "NULL", 
+    "Damage": -2.0, 
+    "DamagePlane": -1, 
+    "Desc": "激光", 
+    "DieEffect": "Effect_Stars", 
+    "DieVolumeName": "SFX_Sound_Trigger_Damage", 
+    "Id": 2005, 
+    "IsEnermy": 0, 
+    "Name": "WLaser", 
+    "Type": 5
+  }, 
+  {
+    "BornEffect": "NULL", 
+    "BornVolumeName": "NULL", 
+    "Damage": -3.0, 
+    "DamagePlane": -5, 
+    "Desc": "火球", 
+    "DieEffect": "Effect_Enemy_2_baoz", 
+    "DieVolumeName": "SFX_Sound_Trigger_Damage", 
+    "Id": 2006, 
+    "IsEnermy": 0, 
+    "Name": "WFireBall", 
+    "Type": 6
+  }, 
+  {
+    "BornEffect": "NULL", 
+    "BornVolumeName": "SFX_Sound_Missile", 
+    "Damage": -5.0, 
+    "DamagePlane": 0, 
+    "Desc": "导弹", 
+    "DieEffect": "Effect_WMissle_baoz", 
+    "DieVolumeName": "SFX_Sound_Missile_Boom", 
+    "Id": 2007, 
+    "IsEnermy": 0, 
+    "Name": "WMissle2", 
+    "Type": 7
+  }
+]
